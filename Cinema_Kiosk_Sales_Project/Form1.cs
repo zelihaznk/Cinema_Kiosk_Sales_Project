@@ -24,7 +24,7 @@ namespace Cinema_Kiosk_Sales_Project
         {
 
             int sweetcorn, water, tea, cookie, coffee, ticket, total;
-          //  sweetcorn = Convert.ToInt16(txtSweecorn.Text);
+            sweetcorn = Convert.ToInt16(txtSweecorn.Text);
             water = Convert.ToInt16(txtWater.Text);
             tea = Convert.ToInt16(txtTea.Text);
             cookie = Convert.ToInt16(txtCookie.Text);
